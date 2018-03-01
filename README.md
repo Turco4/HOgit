@@ -120,10 +120,17 @@ y el push
 ```
 git push
 ```
-Vuelvo al texto para modificarlo en la Branch Charlas.
-lalalalalalalalalalallalalalala
 	
+Comandos utilizados en el repositorio:
 
+git status
+git log
+git add
+git commit -m
+git checkout
+git branch
+git merge
+git log
+git push
 
-:wq
 
